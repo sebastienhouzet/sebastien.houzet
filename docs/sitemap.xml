@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://houzet.info/categories/</loc>
+    <loc>https://sebastienhouzet.github.io/sebastien.houzet/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://houzet.info/</loc>
+    <loc>https://sebastienhouzet.github.io/sebastien.houzet/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://houzet.info/tags/</loc>
+    <loc>https://sebastienhouzet.github.io/sebastien.houzet/tags/</loc>
     <priority>0</priority>
   </url>
   
