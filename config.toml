@@ -58,6 +58,6 @@ disqusShortname = "yourdiscussshortname"
 
 
 [[menu.main]]
-name = "About"
+name = "About Sébastien Houzet"
 weight = 1
 url = "https://sebastien.houzet.info"
